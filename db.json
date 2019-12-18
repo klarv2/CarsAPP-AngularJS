@@ -1,0 +1,123 @@
+[
+
+    {
+        "model": 2015, 
+        "id": "new-qashqai", 
+        "imageUrl": "img/cars/new qashqai.jpg", 
+        "name": "NEW QASHQAI", 
+        "snippet": "MADE WITH YOU IN MIND TO GIVE YOU THE HIGHEST QUALITY",
+        "details": [
+            {
+                "manufacter": {
+                    "name": "NISSAN", 
+                    "country": "Japan"
+                }, 
+                "engine": {
+                    "gears": "6", 
+                    "transmission": "Automatic", 
+                    "type": "Diesel"
+                }, 
+                "description": "The All New Nissan Qashqai has been harshly tested to provide the ultimate in robustness, reliability and safety for you and your passengers. Discover both owners’ and insiders’ first hand reactions on the quality of the All New Nissan Qashqai, and the extreme tests it has been put through.",  
+                "id": "new-qashqai", 
+                "images": [
+                    "img/cars/new qashqai.jpg",
+                    "img/cars/new qashqai2.jpg",
+                    "img/cars/new qashqai3.jpg"
+                ], 
+                "name": "New Qashqai", 
+                "sizeAndWeight": {
+                    "dimensions": [
+                        "1806.9 mm (w)", 
+                        "1595.8 mm (h)", 
+                        "4377.4 mm (l)"
+                    ], 
+                    "weight": "2646.0 Kg"
+                }, 
+                "space": {
+                    "volume": "430L"
+                }
+            }
+        ]
+    },
+    {
+        "model": 2014, 
+        "id": "veloster", 
+        "imageUrl": "img/cars/hyundai veloster.jpg", 
+        "name": "Veloster", 
+        "snippet": "SPORTY LIKE A COUPE. ROOMY LIKE A SEDAN.",
+        "details": [
+            {
+                "manufacter": {
+                    "name": "Hyundai", 
+                    "country": "South Korea"
+                }, 
+                "engine": {
+                    "gears": "6", 
+                    "transmission": "Manual", 
+                    "type": "Petrol"
+                }, 
+                "description": "SPORTY LIKE A COUPE. ROOMY LIKE A SEDAN.",  
+                "id": "veloster", 
+                "images": [
+                    "img/cars/hyundai veloster.jpg",
+                    "img/cars/hyundai veloster2.jpg",
+                    "img/cars/hyundai veloster3.jpg",
+                    "img/cars/hyundai veloster4.jpg",
+                    "img/cars/hyundai veloster5.jpg"
+                ], 
+                "name": "Veloster", 
+                "sizeAndWeight": {
+                    "dimensions": [
+                        "1399.5 mm (w)", 
+                        "1595.8 mm (h)", 
+                        "4218.9 mm (l)"
+                    ], 
+                    "weight": "1211.0 Kg"
+                }, 
+                "space": {
+                    "volume": "15.5L"
+                }
+            }
+            
+        ]
+    },
+    {
+        "model": 2015, 
+        "id": "navara", 
+        "imageUrl": "img/cars/nissan navara.jpg", 
+        "name": "Navara", 
+        "snippet": "The Navara is all about freedom including freedom of choice.",
+        "details": [
+            {
+                "manufacter": {
+                    "name": "NISSAN", 
+                    "country": "Japan"
+                }, 
+                "engine": {
+                    "gears": "6", 
+                    "transmission": "Manual", 
+                    "type": "Diesel"
+                }, 
+                "description": "The Navara is all about freedom including freedom of choice.",  
+                "id": "navara", 
+                "images": [
+                    "img/cars/nissan navara.jpg",
+                    "img/cars/nissan navara2.jpg"
+                ], 
+                "name": "Navara", 
+                "sizeAndWeight": {
+                    "dimensions": [
+                        "1783.9 mm (w)", 
+                        "1595.8 mm (h)", 
+                        "5222.4 mm (l)"
+                    ], 
+                    "weight": "3110.0 Kg"
+                }, 
+                "space": {
+                    "volume": "1130L"
+                }
+            }
+            
+        ]
+    }
+]
