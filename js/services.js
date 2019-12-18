@@ -7,7 +7,7 @@ var carAppServices = angular.module('carAppServices', ['ngResource']); //<---- S
 //Se declara el servicio Car! con una sola propiedad
 carAppServices.factory('Car', ['$resource',
   function($resource){
-    return $resource('cars/:carId.json', {}, {
+    return $resource('https://github.com/klarv2/CarsAPP-AngularJS/blob/master/db.json/:carId', {}, {
       query: {method:'GET', params:{carId:'cars'}, isArray:true}
     });
   }]);
